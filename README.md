@@ -8,6 +8,6 @@ Different discrete choice models were applied:
 - Mixed Logit Models
 - Hybrid Choice Models, with latent class variables
 
-  Results were shown in Endio's and UCA's congresses, and Epio's paper
+Results were shown in Endio's and UCA's congresses, and Epio's paper.
 
   
